@@ -1,16 +1,27 @@
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo0bXdoNGhiaXZmcXlwdmN4OGx5c3lwbXlkZDlxMTAwNGV4c3Z1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfeKaZS9hVVlN47nFO/giphy.gif"  />
+</div>
+
 <h2 align="center">Hi 👋! My name is Shivam Kafle, and I'm a passionate student aiming to escalate my career in data science, from London, UK.</h2>
 
 <div align="center">
   <!-- Stats Graph -->
   <img src="https://github-readme-stats.vercel.app/api?username=shivamkafle1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  
+<br clear="both">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamkafle1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
+<br clear="both">
 <div align="center">
   <!-- GIF -->
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYxemtid29tZGpiMnFjeDJiZ2d3eXZzMTRzaHNnemo1ZzE0eXA2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bhyOSDYX3YQKVhNSxg/giphy.gif" alt="fun gif" />
 </div>
 
+<br clear="both">
+<p align = 'center'><b>Platforms that I have worked In:</p>
+  
+<br clear="both">
 <div align="center">
   <!-- SVG Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
@@ -39,9 +50,13 @@
   <img width="12" />
   <!-- Add other icons here as needed -->
 </div>
-
-
-<div align="left">
+  
+<br clear="both">
+<p align= 'center'><b>Connect me from:</p>
+  
+<br clear="both">
+<!--Social Media-->
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
@@ -61,6 +76,8 @@
 ###
 <br clear="both">
 
+<p align='center'>Snake Animation:</p>
+<div align ='center'>
 <img src="https://raw.githubusercontent.com/shivamkafle1/shivamkafle1/output/snake.svg" alt="Snake animation" />
+</div>
 
-###
