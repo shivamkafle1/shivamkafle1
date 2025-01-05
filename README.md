@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo0bXdoNGhiaXZmcXlwdmN4OGx5c3lwbXlkZDlxMTAwNGV4c3Z1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfeKaZS9hVVlN47nFO/giphy.gif"  />
 </div>
@@ -6,7 +7,10 @@
 
 <div align="center">
   <!-- Stats Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamkafle1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXo4cWxmdHJ6M3g3YjF3cWxkY3F0dGI2dDVxZGxwMjZmMDM1Y29tZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tP4W48sxcKo7VQCL2K/giphy.gif"  />
+</div>
   
 <br clear="both">
 
