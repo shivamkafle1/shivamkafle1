@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo0bXdoNGhiaXZmcXlwdmN4OGx5c3lwbXlkZDlxMTAwNGV4c3Z1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfeKaZS9hVVlN47nFO/giphy.gif"  />
+  <img height="120" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo0bXdoNGhiaXZmcXlwdmN4OGx5c3lwbXlkZDlxMTAwNGV4c3Z1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfeKaZS9hVVlN47nFO/giphy.gif"  />
 </div>
 
 <h2 align="center">Hi 👋! My name is Shivam Kafle, and I'm a passionate student aiming to escalate my career in data science, from London, UK.</h2>
