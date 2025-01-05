@@ -3,7 +3,7 @@
   <img height="120" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo0bXdoNGhiaXZmcXlwdmN4OGx5c3lwbXlkZDlxMTAwNGV4c3Z1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfeKaZS9hVVlN47nFO/giphy.gif"  />
 </div>
 
-<h2 align="center">Hi 👋! My name is Shivam Kafle, and I'm a passionate student aiming to escalate my career in data science, from London, UK.</h2>
+<h3 align="center">Hello, I'm Shivam Kafle😏, a passionate student from London, UK, pursuing a career in data science💼. With a strong interest in data analysis, machine learning, and artificial intelligence, I'm committed to gaining practical skills and knowledge that will help me contribute to the growing tech industry. Currently focusing on expanding my expertise through coursework and hands-on projects, I aim to develop a deep understanding of data-driven decision-making. My ultimate goal is to apply my skills to solve real-world problems and make meaningful contributions in the rapidly evolving field of data science.</h3>
 
 <div align="center">
   <!-- Stats Graph -->
