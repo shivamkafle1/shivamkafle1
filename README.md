@@ -9,15 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shivamkafle1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   
 <br clear="both">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamkafle1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
 
-<br clear="both">
-<div align="center">
-  <!-- GIF -->
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYxemtid29tZGpiMnFjeDJiZ2d3eXZzMTRzaHNnemo1ZzE0eXA2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bhyOSDYX3YQKVhNSxg/giphy.gif" alt="fun gif" />
-</div>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivamkafle1&theme=dark&hide_border=false)<br/>
 <br clear="both">
 <p align = 'center'><b>Platforms that I have worked In:</p>
   
@@ -137,4 +130,24 @@
 <div align ='center'>
 <img src="https://raw.githubusercontent.com/shivamkafle1/shivamkafle1/output/snake.svg" alt="Snake animation" />
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shivamkafle1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br clear="both">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br clear="both">
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shivamkafle1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shivamkafle1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+
+
 
