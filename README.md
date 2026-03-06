@@ -3,7 +3,7 @@
 </div>
 
 <hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #888, transparent);" />
-
+<h3 align="center">🤝 Let's Connect</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/shivamkafle1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25"/>
