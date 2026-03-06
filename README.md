@@ -71,3 +71,6 @@ I'm Shivam Kafle from London 🇬🇧<br><br>
 </div>
 
 <hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #888, transparent);" />
+<img src="https://raw.githubusercontent.com/shivamkafle1/shivamkafle1/output/snake.svg" alt="Snake animation" />
+
+###
