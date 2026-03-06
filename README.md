@@ -17,11 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
-<hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #888, transparent);" />
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza" />
-</div>
 
 <hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #888, transparent);" />
 
