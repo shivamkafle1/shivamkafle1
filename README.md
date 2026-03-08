@@ -28,7 +28,7 @@
 <div align="center">
   <img src="0214c5eb-51bc-47d4-bd4d-95b7bc697c45.jpeg" width="200" style="margin:10px;" />
   <img src="IMG_1181.jpeg" width="200" style="margin:10px;" />
-  <img src="IMAGE3_URL" width="200" style="margin:10px;" />
+  <img src="e2ce3280-7e4f-46fe-8384-e00f2be9cf30.jpeg" width="200" style="margin:10px;" />
 
 <hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #888, transparent);" />
 
