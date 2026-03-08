@@ -26,7 +26,7 @@
 
 <h1 align="center">Hey there 👋</h1>
 <div align="center">
-  <img src="IMAGE1_URL" width="200" style="margin:10px;" />
+  <img src="0214c5eb-51bc-47d4-bd4d-95b7bc697c45.jpeg" width="200" style="margin:10px;" />
   <img src="IMAGE2_URL" width="200" style="margin:10px;" />
   <img src="IMAGE3_URL" width="200" style="margin:10px;" />
 
