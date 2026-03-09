@@ -126,14 +126,6 @@ I'm Shivam Kafle from London 🇬🇧<br><br>
 </div>
 
 <hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #888, transparent);" />
-
-<h3 align="left">🔥 My Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
-</div>
-
-<hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #888, transparent);" />
 <img src="https://raw.githubusercontent.com/shivamkafle1/shivamkafle1/output/snake.svg" alt="Snake animation" />
 
 ###
