@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="ShivamCV.pdf">
-    <img src="Screenshot 2026-03-09 202430.png" height="80" alt="Shivam CV"/>
+    <img src="Screenshot 2026-03-09 202430.png" height="50" alt="Shivam CV"/>
   </a>
   <br>
   <b>Click the image to download my CV</b>
