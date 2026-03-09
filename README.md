@@ -12,7 +12,7 @@
 <h3 align="center">📄 My CV</h3>
 
 <div align="center">
-  <a href="assets/shivam-cv.pdf">
+  <a href="ShivamCV.pdf">
     <img src="assets/shivam-cv-thumbnail.png" height="200" alt="Shivam CV"/>
   </a>
   <br>
